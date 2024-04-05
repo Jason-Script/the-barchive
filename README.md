@@ -1,4 +1,7 @@
-# TheBarchive
+# The Barchive
+
+This is a personal project created by @Jason-Script. and @Haytyj to explore the fundamentals of coding while creating a web-app.
+The Barchive is a work-in-progress web application designed for users to search for cocktail recipes by inputting ingredients they have at home.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
