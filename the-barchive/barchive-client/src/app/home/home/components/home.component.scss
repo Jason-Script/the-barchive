@@ -1,0 +1,13 @@
+.homeDetail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px;
+    gap: 2px;
+
+    &__text1 {
+        color: black;
+        font-size: 17px;
+        font-weight: 400;
+    }
+}
